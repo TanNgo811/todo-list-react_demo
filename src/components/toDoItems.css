@@ -1,0 +1,11 @@
+.ToDoItem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color: #4d4d4d;
+}
+
+.ToDoItem-complete{
+    opacity: .3;
+    text-decoration: line-through;
+}
